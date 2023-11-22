@@ -5,8 +5,6 @@ Welcome to the PHP Full Course repository! 🚀 This repository covers a compreh
 
 ## Table of Contents
 
-## Table of Contents
-
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Course Outline](#course-outline)
@@ -33,6 +31,26 @@ Welcome to the PHP Full Course repository! 🚀 This repository covers a compreh
 4. [How to Use This Repository](#how-to-use-this-repository)
 5. [Contributing](#contributing)
 6. [License](#license)
+
+---
+
+## Introduction
+
+![Introduction](https://via.placeholder.com/800x400.png)
+
+Brief introduction to the PHP Full Course repository.
+
+---
+
+## Getting Started
+
+![Getting Started](https://via.placeholder.com/800x400.png)
+
+Instructions on setting up your environment for the course.
+
+---
+
+... (Repeat this pattern for other sections)
 
 
 ## Introduction
