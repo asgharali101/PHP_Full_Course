@@ -1,5 +1,6 @@
 
 # PHP Full Course Repository
+![image](https://th.bing.com/th/id/OIP.inJl3V4tZpeQRandRBg19gHaFj?w=208&h=180&c=7&r=0&o=5&pid=1.7)
 
 Welcome to the PHP Full Course repository! 🚀 This repository covers a comprehensive PHP course with detailed explanations, examples, and exercises. Whether you're a beginner looking to learn PHP or an experienced developer wanting to refresh your skills, you're in the right place.
 
@@ -53,8 +54,6 @@ Instructions on setting up your environment for the course.
 
 ## Introduction
 
-![image](https://github.com/asgharali101/PHP_Full_Course/assets/122790377/17ddf477-e74f-49cb-811e-68dd77355b6c)
-
 
 Brief introduction to the PHP Full Course repository.
 
@@ -62,8 +61,7 @@ Brief introduction to the PHP Full Course repository.
 
 ## Getting Started
 
-(https://th.bing.com/th/id/OIP.DJzx7moy0xP_mfi2eIF9WQHaFj?w=190&h=180&c=7&r=0&o=5&pid=1.7)
-Instructions on setting up your environment for the course.
+\Instructions on setting up your environment for the course.
 
 ---
 
@@ -89,7 +87,7 @@ Covering the fundamentals of PHP, including variables, data types, operators, an
 Exploring various functions and techniques for manipulating strings in PHP.
 
 ### 3. Array Handling
-![Image 1]![image](https://miro.medium.com/max/1006/1*HJY_2vNKkNkqRQhLZcYlyg.png)
+![image](https://miro.medium.com/max/1006/1*HJY_2vNKkNkqRQhLZcYlyg.png)
 
 
 Understanding how to work with arrays, perform array operations, and utilize array functions.
@@ -99,6 +97,7 @@ Understanding how to work with arrays, perform array operations, and utilize arr
 Learning about decision-making and loop structures in PHP.
 
 ### 5. Functions
+![image](https://www.grc.nasa.gov/www/BGH/Images/function.gif)
 
 Delving into the creation and usage of functions in PHP.
 
@@ -129,3 +128,4 @@ If you'd like to contribute to this PHP Full Course, please check out our guidel
 ## License
 
 This PHP Full Course is licensed under the [MIT License](LICENSE).
+![image](https://th.bing.com/th/id/OIP.XS0Clb0Pcai2sL-QyUmeRAHaFU?w=230&h=180&c=7&r=0&o=5&pid=1.7)
