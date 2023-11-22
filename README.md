@@ -63,9 +63,6 @@ Brief introduction to the PHP Full Course repository.
 
 \Instructions on setting up your environment for the course.
 
----
-
-... (Repeat this pattern for other sections)
 
 
 ## Introduction
@@ -81,6 +78,7 @@ Get started with setting up your PHP environment, installing necessary tools, an
 ### 1. Basics of PHP
 
 Covering the fundamentals of PHP, including variables, data types, operators, and basic syntax.
+![image](https://th.bing.com/th/id/OIP.n80hwWFXAYrtZyW-xgKU6QHaEK?w=286&h=180&c=7&r=0&o=5&pid=1.7)
 
 ### 2. String Manipulation
 
@@ -92,7 +90,8 @@ Exploring various functions and techniques for manipulating strings in PHP.
 
 Understanding how to work with arrays, perform array operations, and utilize array functions.
 
-### 4. Control Structures
+### 4. Control Structures and loops
+![image](https://th.bing.com/th/id/OIP.oa46elvQM-LOJPX36oXu4gHaFP?w=210&h=180&c=7&r=0&o=5&pid=1.7)
 
 Learning about decision-making and loop structures in PHP.
 
@@ -104,26 +103,31 @@ Delving into the creation and usage of functions in PHP.
 ### 6. Object-Oriented PHP
 
 An introduction to object-oriented programming (OOP) concepts in PHP.
+![image](https://th.bing.com/th/id/OIP.0p2Z-lQPKQCL9nSOd84yxwHaEK?pid=ImgDet&w=186&h=105&c=7)
 
 ### 7. Database Connectivity
 
 Connecting PHP to databases, executing SQL queries, and managing database interactions.
+![image](https://th.bing.com/th/id/OIP.jETM5rjmI_UV_dXVHkz3xQAAAA?rs=1&pid=ImgDetMain)
 
 ### 8. Web Development with PHP
 
 Creating dynamic web pages, handling forms, and interacting with web servers.
+![image](https://th.bing.com/th/id/OIP.MfpgrzQPwdIRTN120-OnAQHaDo?w=325&h=171&c=7&r=0&o=5&pid=1.7)
 
 ### 9. PHP Best Practices
 
 Exploring best practices and coding standards for writing clean and maintainable PHP code.
+![image](https://th.bing.com/th/id/OIP.03oQ7SJl5BlWlCYx7X0RzQHaEO?w=255&h=180&c=7&r=0&o=5&pid=1.7)
 
 ## How to Use This Repository
 
 Instructions on how to navigate the repository, run examples, and engage with the course content.
-
 ## Contributing
 
 If you'd like to contribute to this PHP Full Course, please check out our guidelines on how to contribute.
+![image](https://th.bing.com/th/id/OIP.zEPjMsoM54coVINA0k8ovQHaD4?w=328&h=180&c=7&r=0&o=5&pid=1.7)
+
 
 ## License
 
