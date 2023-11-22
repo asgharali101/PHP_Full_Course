@@ -36,7 +36,24 @@ Welcome to the PHP Full Course repository! 🚀 This repository covers a compreh
 
 ## Introduction
 
-![Introduction](https://via.placeholder.com/800x400.png)
+Brief introduction to the PHP Full Course repository.
+
+---
+
+## Getting Started
+
+Instructions on setting up your environment for the course.
+
+---
+
+... (Repeat this pattern for other sections)
+
+
+---
+
+## Introduction
+
+![Introduction](https://via.placeholder.com/800x400.pn)
 
 Brief introduction to the PHP Full Course repository.
 
