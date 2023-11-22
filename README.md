@@ -53,8 +53,8 @@ Instructions on setting up your environment for the course.
 
 ## Introduction
 
-![Introduction](![image](https://github.com/asgharali101/PHP_Full_Course/assets/122790377/17ddf477-e74f-49cb-811e-68dd77355b6c)
-)
+![image](https://github.com/asgharali101/PHP_Full_Course/assets/122790377/17ddf477-e74f-49cb-811e-68dd77355b6c)
+
 
 Brief introduction to the PHP Full Course repository.
 
@@ -89,7 +89,8 @@ Covering the fundamentals of PHP, including variables, data types, operators, an
 Exploring various functions and techniques for manipulating strings in PHP.
 
 ### 3. Array Handling
-https://th.bing.com/th/id/OIP.QGN21m57gm1KowEk_ndqawHaGS?w=216&h=183&c=7&r=0&o=5&pid=1.7
+![Image 1]![image](https://miro.medium.com/max/1006/1*HJY_2vNKkNkqRQhLZcYlyg.png)
+
 
 Understanding how to work with arrays, perform array operations, and utilize array functions.
 
