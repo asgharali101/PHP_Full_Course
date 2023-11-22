@@ -61,8 +61,7 @@ Brief introduction to the PHP Full Course repository.
 
 ## Getting Started
 
-![Getting Started](https://via.placeholder.com/800x400.png)
-
+(https://th.bing.com/th/id/OIP.DJzx7moy0xP_mfi2eIF9WQHaFj?w=190&h=180&c=7&r=0&o=5&pid=1.7)
 Instructions on setting up your environment for the course.
 
 ---
@@ -89,6 +88,7 @@ Covering the fundamentals of PHP, including variables, data types, operators, an
 Exploring various functions and techniques for manipulating strings in PHP.
 
 ### 3. Array Handling
+https://th.bing.com/th/id/OIP.QGN21m57gm1KowEk_ndqawHaGS?w=216&h=183&c=7&r=0&o=5&pid=1.7
 
 Understanding how to work with arrays, perform array operations, and utilize array functions.
 
