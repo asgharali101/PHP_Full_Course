@@ -53,7 +53,8 @@ Instructions on setting up your environment for the course.
 
 ## Introduction
 
-![Introduction](https://via.placeholder.com/800x400.pn)
+![Introduction](![image](https://github.com/asgharali101/PHP_Full_Course/assets/122790377/17ddf477-e74f-49cb-811e-68dd77355b6c)
+)
 
 Brief introduction to the PHP Full Course repository.
 
