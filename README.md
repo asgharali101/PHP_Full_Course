@@ -1,8 +1,9 @@
-# PHP_Full_Course
-In this repository i keep whole php course code 
+
 # PHP Full Course Repository
 
 Welcome to the PHP Full Course repository! 🚀 This repository covers a comprehensive PHP course with detailed explanations, examples, and exercises. Whether you're a beginner looking to learn PHP or an experienced developer wanting to refresh your skills, you're in the right place.
+
+## Table of Contents
 
 ## Table of Contents
 
@@ -10,17 +11,29 @@ Welcome to the PHP Full Course repository! 🚀 This repository covers a compreh
 2. [Getting Started](#getting-started)
 3. [Course Outline](#course-outline)
    - [1. Basics of PHP](#1-basics-of-php)
-   - [2. String Manipulation](#2-string-manipulation)
-   - [3. Array Handling](#3-array-handling)
-   - [4. Control Structures](#4-control-structures)
-   - [5. Functions](#5-functions)
-   - [6. Object-Oriented PHP](#6-object-oriented-php)
-   - [7. Database Connectivity](#7-database-connectivity)
-   - [8. Web Development with PHP](#8-web-development-with-php)
-   - [9. PHP Best Practices](#9-php-best-practices)
+   - [2. Data Types](#2-data-types)
+   - [3. Variables and Constants](#3-variables-and-constants)
+   - [4. Operators](#4-operators)
+   - [5. String Manipulation](#5-string-manipulation)
+   - [6. Arrays](#6-arrays)
+   - [7. Array Manipulation](#7-array-manipulation)
+   - [8. Multidimensional Arrays](#8-multidimensional-arrays)
+   - [9. Control Structures](#9-control-structures)
+   - [10. Conditional Statements](#10-conditional-statements)
+   - [11. Loops](#11-loops)
+      - [11.1 For Loop](#111-for-loop)
+      - [11.2 While Loop](#112-while-loop)
+      - [11.3 Do-While Loop](#113-do-while-loop)
+      - [11.4 Foreach Loop](#114-foreach-loop)
+   - [12. Functions](#12-functions)
+   - [13. Object-Oriented PHP](#13-object-oriented-php)
+   - [14. Database Connectivity](#14-database-connectivity)
+   - [15. Web Development with PHP](#15-web-development-with-php)
+   - [16. PHP Best Practices](#16-php-best-practices)
 4. [How to Use This Repository](#how-to-use-this-repository)
 5. [Contributing](#contributing)
 6. [License](#license)
+
 
 ## Introduction
 
