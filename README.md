@@ -1,5 +1,5 @@
 
-# PHP Full Course Repository
+# PHP Full Course Repository:
 ![image](https://th.bing.com/th/id/OIP.aiBlj3dnIr2u6RknVn_PsQHaEK?rs=1&pid=ImgDetMain)
 
 Welcome to the PHP Full Course repository! 🚀 This repository covers a comprehensive PHP course with detailed explanations, examples, and exercises. Whether you're a beginner looking to learn PHP or an experienced developer wanting to refresh your skills, you're in the right place.
