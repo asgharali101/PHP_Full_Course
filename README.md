@@ -41,7 +41,7 @@ Brief introduction to the PHP Full Course repository.
 
 ---
 
-## Getting Started
+## Getting Started->
 
 Instructions on setting up your environment for the course.
 
