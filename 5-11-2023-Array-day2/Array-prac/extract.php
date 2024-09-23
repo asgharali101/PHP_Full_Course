@@ -12,7 +12,7 @@ $name1 = [
 ];
 
 $name2 = [
-    'a' => 'asghar',
+    'a' => 'ahmed',
     'b' => 'ali',
     'c' => 'mehnaz',
     'd' => 'gul',
@@ -22,8 +22,4 @@ $name2 = [
 $array3 = array_merge($name1, $name2);
 
 $array4 = extract($array3);
-echo $a;
-
-
-
-?>
+echo $array4;
